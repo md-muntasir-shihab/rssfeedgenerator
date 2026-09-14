@@ -1,17 +1,210 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Campus &amp; Career Unified News Feed</title>
-    <link>https://github.com/md-muntasir-shihab/rssfeedgenerator</link>
-    <description>All-in-one updates from Daily Campus, Prothom Alo Chakri, RU, Telegram &amp; Insiders pages.</description>
+    <title>Campus &amp; Career Master Feed</title>
+    <link>https://md-muntasir-shihab.github.io/rssfeedgenerator/feed.xml</link>
+    <description>All-in-one verified news, notices, and updates updated every 30 minutes.</description>
+    <atom:link href="https://md-muntasir-shihab.github.io/rssfeedgenerator/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>bn</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:06:12 +0000</lastBuildDate>
+    <item>
+      <title>বিনোদন খবর | Most Entertainment News Readers BD প্রথম আলো</title>
+      <link>https://www.prothomalo.com/entertainment</link>
+      <description>বিনোদন খবর | Most Entertainment News Readers BD প্রথম আলো</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/8125027e43ac32612ffe16a3b4356ffa-palo-logo.jpg" alt="বিনোদন খবর | Most Entertainment News Readers BD প্রথম আলো" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/entertainment</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/8125027e43ac32612ffe16a3b4356ffa-palo-logo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>খেলার খবর | খেলা - সর্বশেষ Sports News Bangla | প্রথম আলো</title>
+      <link>https://www.prothomalo.com/sports</link>
+      <description>খেলার খবর | খেলা - সর্বশেষ Sports News Bangla | প্রথম আলো</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/723b7b56de150a31a26c158fde2a8b84-palo-logo.jpg" alt="খেলার খবর | খেলা - সর্বশেষ Sports News Bangla | প্রথম আলো" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/sports</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/723b7b56de150a31a26c158fde2a8b84-palo-logo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>মতামত | সম্পাদকীয় | Opinion Editorial | Prothom Alo</title>
+      <link>https://www.prothomalo.com/opinion</link>
+      <description>মতামত | সম্পাদকীয় | Opinion Editorial | Prothom Alo</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/714a936bd598937ba32f1fc6f4024818-palo-logo.jpg" alt="মতামত | সম্পাদকীয় | Opinion Editorial | Prothom Alo" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/opinion</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/714a936bd598937ba32f1fc6f4024818-palo-logo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ব্যবসা বাণিজ্য ও অর্থনীতির খবর | Business | Prothom Alo</title>
+      <link>https://www.prothomalo.com/business</link>
+      <description>ব্যবসা বাণিজ্য ও অর্থনীতির খবর | Business | Prothom Alo</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/cd939d0ccbf26ca212756b931567965f-palo-logo.jpg" alt="ব্যবসা বাণিজ্য ও অর্থনীতির খবর | Business | Prothom Alo" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/business</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/cd939d0ccbf26ca212756b931567965f-palo-logo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>আজকের আন্তর্জাতিক খবর - বিশ্ব সংবাদ | World News প্রথম আলো</title>
+      <link>https://www.prothomalo.com/world</link>
+      <description>আজকের আন্তর্জাতিক খবর - বিশ্ব সংবাদ | World News প্রথম আলো</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/3e87c788ec698d58d49a55d179217d43-palo-logo.jpg" alt="আজকের আন্তর্জাতিক খবর - বিশ্ব সংবাদ | World News প্রথম আলো" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/world</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/3e87c788ec698d58d49a55d179217d43-palo-logo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>বাংলাদেশের খবর | Bangladesh News Update | Prothom Alo</title>
+      <link>https://www.prothomalo.com/bangladesh</link>
+      <description>বাংলাদেশের খবর | Bangladesh News Update | Prothom Alo</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/4d3620a7127d4a031a05a962fcc4b253-palo-logo.jpg" alt="বাংলাদেশের খবর | Bangladesh News Update | Prothom Alo" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/bangladesh</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo/import/default/2016/03/15/4d3620a7127d4a031a05a962fcc4b253-palo-logo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>লাইফস্টাইল | জীবনযাপনের সর্বশেষ Lifestyle ProthomAlo</title>
+      <link>https://www.prothomalo.com/lifestyle</link>
+      <description>লাইফস্টাইল | জীবনযাপনের সর্বশেষ Lifestyle ProthomAlo</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" alt="লাইফস্টাইল | জীবনযাপনের সর্বশেষ Lifestyle ProthomAlo" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/lifestyle</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>রাজনীতি | রাজনীতির সর্বশেষ খবর | Politics News | Prothom Alo</title>
+      <link>https://www.prothomalo.com/politics</link>
+      <description>রাজনীতি | রাজনীতির সর্বশেষ খবর | Politics News | Prothom Alo</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" alt="রাজনীতি | রাজনীতির সর্বশেষ খবর | Politics News | Prothom Alo" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/politics</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>নিউজ সার্চ - রাজনীতি, বাংলাদেশ, খেলা, বিনোদন, ছবি ও ভিডিও - প্রথম আলো</title>
       <link>https://www.prothomalo.com/search</link>
-      <description>&lt;p&gt;Login
+      <description>Login
 সর্বশেষ
 বাংলাদেশ
 রাজনীতি
@@ -35,41 +228,68 @@ Login
 ধরন
 প্রাপ্ত ফলাফল
 :
-১৪৩৮৮৩২
+১৪৩৮৮৫২
 সাজানো
-প্রথম আলো ফ্যাক্ট চেক
-সাবেক উপদেষ্টা আসিফ নজরুলের নামে ভুয়া মন্তব্য প্রচার
-৬ মিনিট আগে
-লেনোভোর নতুন দুটি মডেলের মনিটর বাজারে
-৯ মিনিট আগে
-ডেঙ্গুতে এক দিনে সর্বোচ্চ সংক্রমণ, মৃত্যু ৮
+অতীশ দীপঙ্কর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের নতুন...</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" alt="নিউজ সার্চ - রাজনীতি, বাংলাদেশ, খেলা, বিনোদন, ছবি ও ভিডিও - প্রথম আলো" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login
+অনুসন্ধান
+আরও নির্দিষ্ট করে খুঁজুন
+তারিখ
+লেখক
+সেকশন
+ধরন
+প্রাপ্ত ফলাফল
+:
+১৪৩৮৮৫২
+সাজানো
+অতীশ দীপঙ্কর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের নতুন উপাচার্য অধ্যাপক মো. জাকির হোসেন
+১২ মিনিট আগে
+ক্যারিয়ারে বেশ কিছু ভুল করে তিনি কঠিন শিক্ষা পেয়েছেন
 ১৪ মিনিট আগে
-স্টেশনে এসে ‘ফোন ধরিস না কেন’ বলেই ট্রেনকর্মীদের থাপড়াতে থাকেন যুবদল নেতা
-১৬ মিনিট আগে
-ব্রাহ্মণবাড়িয়া সরকারি কলেজের সাংস্কৃতিক অনুষ্ঠানে ‘হাইওয়ে’র পরিবেশনায় মাতে তারুণ্য
-২০ মিনিট আগে
-সঞ্চয়পত্রের মুনাফা আর ভুল ব্যাংক হিসাবে যাবে না, ৪০ লাখ গ্রাহকের স্বস্তি
-২১ মিনিট আগে
-বিনিয়োগ বাড়াতে দুই বছরের জ্বালানি পথনকশা চান মার্কিন ব্যবসায়ীরা
+গুলশানে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ঝটিকা মিছিল: আরও ৯ আসামি কারাগারে
+১৫ মিনিট আগে
+ঢাকার দুই সিটিতে জামায়াতের প্রার্থী কারা, জানালেন দলটির সেক্রেটারি
+১৭ মিনিট আগে
+হামে চলতি মাসে এক দিনে সর্বোচ্চ মৃত্যু
+২৫ মিনিট আগে
+আদালতের রায়ে দেউলিয়া ঘোষণা চালকল ব্যবসায়ী, ‘কিছুই করার নেই’ ২৫২ কোটি টাকা পাওনাদারদের
 ২৮ মিনিট আগে
-সেন্ট যোসেফ কলেজে একাদশে ভর্তি পরীক্ষার ফল প্রকাশ
-২৮ মিনিট আগে
-আর্জেন্টাইন ক্লাবের বিশ্ব রেকর্ড এখন রোনালদোর দলের
+গোবিন্দর সঙ্গে প্রেম? মুখ খুললেন নীলম
 ২৯ মিনিট আগে
-বার্তাসংক্ষেপ
-ওবায়দুল কাদের, সাদ্দাম, ইনানসহ সাত আসামির মামলার রায় কাল
-৩১ মিনিট আগে
-রাজধানীতে পৃথক স্থান থেকে এক নারীসহ পাঁচ লাশ উদ্ধার
-৩১ মিনিট আগে
-আট লাখ টাকায় জানুয়ারিতে যান কম্বোডিয়া, আরও এক লাখ খরচ করে দেশে ফিরে আত্মহত্যা
-৩৫ মিনিট আগে
-শেরেবাংলা কৃষি বিশ্ববিদ্যালয়ের ফিশারিজ বিভাগের শিক্ষার্থীদের ফিল্ড ভিজিট সম্পন্ন
-৩৯ মিনিট আগে
-সোনালি আঁশে কৃষকের হাসি
-৪৪ মিনিট আগে
-বিদেশে সম্পদ পাচারকারীর জব্দ ব্যাংক হিসাব থেকে কর আদায়ের উদ্যোগ
-১ ঘণ্টা আগে
-আরও&lt;/p&gt;</description>
+মতামত
+এআই যুগের শ্রমবাজারের জন্য প্রস্তুতি কি বিশ্ববিদ্যালয়ে গিয়ে শুরু হবে
+৩০ মিনিট আগে
+অ্যাশেজের আগেই অবসরের ইঙ্গিত স্মিথের
+৩৭ মিনিট আগে
+সন্ধ্যায় সারা দিনের খবর
+৩৮ মিনিট আগে
+বেসন নারকেল বরফির রেসিপি
+৪১ মিনিট আগে
+পৃথিবীর চৌম্বকক্ষেত্রে শনাক্ত করা রহস্যময় সংকেত আসলে কী
+৪৮ মিনিট আগে
+এক মঞ্চে মোদি-সি-পুতিন, ব্রিকসে কার লাভ কতটা?
+৫২ মিনিট আগে
+মতামত
+বিনা মূল্যের ওষুধ: অর্থ নয়, সদিচ্ছার অভাব
+৫৩ মিনিট আগে
+স্যুটকেসে নারীর লাশ : বিয়ের জন্য চাপ দেওয়ায় বাসায় এনে হত্যা
+৫৫ মিনিট আগে
+আরও</p>]]></content:encoded>
       <guid isPermaLink="false">https://www.prothomalo.com/search</guid>
       <enclosure url="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -77,7 +297,26 @@ Login
     <item>
       <title>প্রথম আলো | বাংলা নিউজ পেপার</title>
       <link>https://www.prothomalo.com/</link>
-      <description>&lt;p&gt;Login
+      <description>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login
+ডাকসু সংগ্রহশালায় জিন্নাহর ছবি
+জড়িতদের বিরুদ্ধে ব্যবস্থা নেবে ঢাকা বিশ্ববিদ্যালয় প্রশাসন
+ডাকসু সংগ্রহশালায় পাকিস্তানের তৎকালীন গভর্নর জেন...</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" alt="প্রথম আলো | বাংলা নিউজ পেপার" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
 সর্বশেষ
 বাংলাদেশ
 রাজনীতি
@@ -96,20 +335,20 @@ Login
 ডাকসু সংগ্রহশালায় জিন্নাহর ছবি
 জড়িতদের বিরুদ্ধে ব্যবস্থা নেবে ঢাকা বিশ্ববিদ্যালয় প্রশাসন
 ডাকসু সংগ্রহশালায় পাকিস্তানের তৎকালীন গভর্নর জেনারেল মুহাম্মদ আলী জিন্নাহ এবং তৎকালীন ছাত্রসংঘের নেতা আবদুল মালেকের ছবি প্রদর্শনের বিষয়টি ভাষা আন্দোলন ও স্বাধীনতার ইতিহাসের সঙ্গে সাংঘর্ষিক।
-৪৪ মিনিট আগে
+১ ঘণ্টা আগে
 আগামীকাল রাত থেকে শিল্পে গ্যাস-বিদ্যুৎ সরবরাহ আগের অবস্থায় ফেরানোর আশ্বাস
 ফজলুল হক বলেন, গ্যাস ও বিদ্যুতের সাম্প্রতিক সংকট কাটিয়ে শিল্পকারখানায় সরবরাহ আগের অবস্থায় ফিরবে বলে আশ্বাস দিয়েছেন প্রধানমন্ত্রী তারেক রহমান।
 ২ ঘণ্টা আগে
 ঢাকার দুই সিটিতে জামায়াতের প্রার্থী কারা, জানালেন দলটির সেক্রেটারি
 জামায়াতে ইসলামী এরই মধ্যে ইউনিয়ন, উপজেলা, জেলা, সিটি করপোরেশনে প্রার্থী মনোনয়নের প্রক্রিয়া চূড়ান্ত করার পর্যায়ে চলে এসেছে বলে জানিয়েছেন মিয়া গোলাম পরওয়ার।
-৪ মিনিট আগে
+২১ মিনিট আগে
 স্টেশনে এসে ‘ফোন ধরিস না কেন’ বলেই ট্রেনকর্মীদের থাপড়াতে থাকেন যুবদল নেতা
 সোমবার বেলা সাড়ে ১১টার দিকে ব্রাহ্মণবাড়িয়া রেলস্টেশনের প্ল্যাটফর্মে এ ঘটনা ঘটে।
 ১ ঘণ্টা আগে
 ডাকসুর সংগ্রহশালা থেকে জিন্নাহর ছবি ছিঁড়ে ফেললেন এক শিক্ষার্থী
 ৩ ঘণ্টা আগে
 আদালতের রায়ে দেউলিয়া ঘোষণা চালকল ব্যবসায়ী, ‘কিছুই করার নেই’ ২৫২ কোটি টাকা পাওনাদারদের
-১৫ মিনিট আগে
+৩২ মিনিট আগে
 শওকত হোসেনের বিশ্লেষণ
 বাংলাদেশ ব্যাংকের বিপুল মুনাফার আড়ালে কী
 কেন্দ্রীয় ব্যাংকের মুনাফা করা অস্বাভাবিক নয়। আর্থিকভাবে সক্ষম থাকাও কেন্দ্রীয় ব্যাংকের স্বাধীনতা ও কার্যকারিতার জন্য জরুরি। কিন্তু মুনাফা তার চূড়ান্ত উদ্দেশ্য নয়।
@@ -120,11 +359,11 @@ Login
 ৩ ঘণ্টা আগে
 ব্রিকস সম্মেলন: একতরফা নিষেধাজ্ঞা ও বাড়তি শুল্কের নিন্দা, কিন্তু যুক্তরাষ্ট্রের নাম উল্লেখ করা হলো না
 সম্মেলনে অন্যতম দিক হলো ইরানের প্রেসিডেন্ট পেজেশকিয়ান ও আবুধাবির ক্রাউন প্রিন্সের মুখোমুখি বৈঠক। মাত্র কয়েক মাস আগেও এমন বৈঠক কল্পনা করা কঠিন ছিল।
-৩ ঘণ্টা আগে
+৪ ঘণ্টা আগে
 ঋতুপর্ণাদের না খেলিয়ে ১০ গোল হজমের দায় নিলেন বাটলার
 ২ ঘণ্টা আগে
 এ মাসেই মা হবেন অভিনেত্রী মৌসুমী, বেবি শাওয়ারে কারা এলেন
-৫৩ মিনিট আগে
+১ ঘণ্টা আগে
 ২২০০ টাকা কেজি ইলিশ, এত দাম কেন?
 ৩ ঘণ্টা আগে
 ডাকসু সংগ্রহশালায় জিন্নাহর ছবি সংযুক্ত করার প্রতিবাদে গোলাম আযমকে অপমানের ছবি লাগাল ছাত্র ফেডারেশন
@@ -133,27 +372,26 @@ Login
 ১ ঘণ্টা আগে
 সঞ্চয়পত্রের মুনাফা আর ভুল ব্যাংক হিসাবে যাবে না, ৪০ লাখ গ্রাহকের স্বস্তি
 ১ ঘণ্টা আগে
+পড়ি কিন্তু মনে থাকে না কেন
+৬ ঘণ্টা আগে
 মেয়ের সহপাঠীকে ধর্ষণের পর হত্যা করে ঘরের মেঝেতে পুঁতে রাখে অভিযুক্ত: পুলিশ
 ৪ ঘণ্টা আগে
 আট লাখ টাকায় জানুয়ারিতে যান কম্বোডিয়া, আরও এক লাখ খরচ করে দেশে ফিরে আত্মহত্যা
 ১ ঘণ্টা আগে
 সাত ধাপে ইউপি নির্বাচন, প্রথম ধাপের সম্ভাব্য তারিখ ১২ নভেম্বর
-২ ঘণ্টা আগে
-বিদেশে সম্পদ পাচারকারীর জব্দ ব্যাংক হিসাব থেকে কর আদায়ের উদ্যোগ
-১ ঘণ্টা আগে
-ব্যঙ্গ রচনা
-ওয়েস্টিন, হাঁস ও খাসি: ১১ হাজার কোটি টাকা আসলে কত টাকা
 ৩ ঘণ্টা আগে
+বিদেশে সম্পদ পাচারকারীর জব্দ ব্যাংক হিসাব থেকে কর আদায়ের উদ্যোগ
+২ ঘণ্টা আগে
 ঢাকা বিশ্ববিদ্যালয়
 ফাইল ছবি
 ডাকসু সংগ্রহশালায় জিন্নাহর ছবি
 জড়িতদের বিরুদ্ধে ব্যবস্থা নেবে ঢাকা বিশ্ববিদ্যালয় প্রশাসন
 ডাকসু সংগ্রহশালায় পাকিস্তানের তৎকালীন গভর্নর জেনারেল মুহাম্মদ আলী জিন্নাহ এবং তৎকালীন ছাত্রসংঘের নেতা আবদুল মালেকের ছবি প্রদর্শনের বিষয়টি ভাষা আন্দোলন ও স্বাধীনতার ইতিহাসের সঙ্গে সাংঘর্ষিক।
-৪৪ মিনিট আগে
+১ ঘণ্টা আগে
 আগামীকাল রাত থেকে শিল্পে গ্যাস-বিদ্যুৎ সরবরাহ আগের অবস্থায় ফেরানোর আশ্বাস
 ২ ঘণ্টা আগে
 ঢাকার দুই সিটিতে জামায়াতের প্রার্থী কারা, জানালেন দলটির সেক্রেটারি
-৪ মিনিট আগে
+২১ মিনিট আগে
 স্টেশনে এসে ‘ফোন ধরিস না কেন’ বলেই ট্রেনকর্মীদের থাপড়াতে থাকেন যুবদল নেতা
 ১ ঘণ্টা আগে
 ডাকসুর সংগ্রহশালা থেকে জিন্নাহর ছবি ছিঁড়ে ফেললেন এক শিক্ষার্থী
@@ -161,7 +399,7 @@ Login
 ৩ ঘণ্টা আগে
 আদালতের রায়ে দেউলিয়া ঘোষণা চালকল ব্যবসায়ী, ‘কিছুই করার নেই’ ২৫২ কোটি টাকা পাওনাদারদের
 বাদীপক্ষের আইনজীবী বলেছেন, আদালত কোনো তদন্ত ছাড়াই এই রায় দিলেন। আদালত কোনো তদন্ত সংস্থা দ্বারা তদন্তও করাননি।
-১৫ মিনিট আগে
+৩২ মিনিট আগে
 শওকত হোসেনের বিশ্লেষণ
 বাংলাদেশ ব্যাংকের বিপুল মুনাফার আড়ালে কী
 ৭ ঘণ্টা আগে
@@ -169,11 +407,11 @@ Login
 হুতির হামলায় মক্কা চুক্তি কি কার্যকর হবে
 ৩ ঘণ্টা আগে
 ব্রিকস সম্মেলন: একতরফা নিষেধাজ্ঞা ও বাড়তি শুল্কের নিন্দা, কিন্তু যুক্তরাষ্ট্রের নাম উল্লেখ করা হলো না
-৩ ঘণ্টা আগে
+৪ ঘণ্টা আগে
 ঋতুপর্ণাদের না খেলিয়ে ১০ গোল হজমের দায় নিলেন বাটলার
 ২ ঘণ্টা আগে
 এ মাসেই মা হবেন অভিনেত্রী মৌসুমী, বেবি শাওয়ারে কারা এলেন
-৫৩ মিনিট আগে
+১ ঘণ্টা আগে
 ২২০০ টাকা কেজি ইলিশ, এত দাম কেন?
 ৩ ঘণ্টা আগে
 ডাকসু সংগ্রহশালায় জিন্নাহর ছবি সংযুক্ত করার প্রতিবাদে গোলাম আযমকে অপমানের ছবি লাগাল ছাত্র ফেডারেশন
@@ -185,42 +423,40 @@ Login
 সঞ্চয়পত্রের মুনাফা আর ভুল ব্যাংক হিসাবে যাবে না, ৪০ লাখ গ্রাহকের স্বস্তি
 এত দিন অনলাইন সিস্টেমে ব্যাংক হিসাব স্বয়ংক্রিয়ভাবে যাচাইয়ের সুযোগ ছিল না।
 ১ ঘণ্টা আগে
+পড়ি কিন্তু মনে থাকে না কেন
 মেয়ের সহপাঠীকে ধর্ষণের পর হত্যা করে ঘরের মেঝেতে পুঁতে রাখে অভিযুক্ত: পুলিশ
 আট লাখ টাকায় জানুয়ারিতে যান কম্বোডিয়া, আরও এক লাখ খরচ করে দেশে ফিরে আত্মহত্যা
 সাত ধাপে ইউপি নির্বাচন, প্রথম ধাপের সম্ভাব্য তারিখ ১২ নভেম্বর
 বিদেশে সম্পদ পাচারকারীর জব্দ ব্যাংক হিসাব থেকে কর আদায়ের উদ্যোগ
-ব্যঙ্গ রচনা
-ওয়েস্টিন, হাঁস ও খাসি: ১১ হাজার কোটি টাকা আসলে কত টাকা
 আগামীকাল রাত থেকে শিল্পে গ্যাস-বিদ্যুৎ সরবরাহ আগের অবস্থায় ফেরানোর আশ্বাস
 ফজলুল হক বলেন, গ্যাস ও বিদ্যুতের সাম্প্রতিক সংকট কাটিয়ে শিল্পকারখানায় সরবরাহ আগের অবস্থায় ফিরবে বলে আশ্বাস দিয়েছেন প্রধানমন্ত্রী তারেক রহমান।
 ২ ঘণ্টা আগে
 ঢাকার দুই সিটিতে জামায়াতের প্রার্থী কারা, জানালেন দলটির সেক্রেটারি
 জামায়াতে ইসলামী এরই মধ্যে ইউনিয়ন, উপজেলা, জেলা, সিটি করপোরেশনে প্রার্থী মনোনয়নের প্রক্রিয়া চূড়ান্ত করার পর্যায়ে চলে এসেছে বলে জানিয়েছেন মিয়া গোলাম পরওয়ার।
-৪ মিনিট আগে
+২১ মিনিট আগে
 স্টেশনে এসে ‘ফোন ধরিস না কেন’ বলেই ট্রেনকর্মীদের থাপড়াতে থাকেন যুবদল নেতা
 ১ ঘণ্টা আগে
+পড়ি কিন্তু মনে থাকে না কেন
 মেয়ের সহপাঠীকে ধর্ষণের পর হত্যা করে ঘরের মেঝেতে পুঁতে রাখে অভিযুক্ত: পুলিশ
 আট লাখ টাকায় জানুয়ারিতে যান কম্বোডিয়া, আরও এক লাখ খরচ করে দেশে ফিরে আত্মহত্যা
 সাত ধাপে ইউপি নির্বাচন, প্রথম ধাপের সম্ভাব্য তারিখ ১২ নভেম্বর
 বিদেশে সম্পদ পাচারকারীর জব্দ ব্যাংক হিসাব থেকে কর আদায়ের উদ্যোগ
-ব্যঙ্গ রচনা
-ওয়েস্টিন, হাঁস ও খাসি: ১১ হাজার কোটি টাকা আসলে কত টাকা
 ঢাকা বিশ্ববিদ্যালয়
 ফাইল ছবি
 ডাকসু সংগ্রহশালায় জিন্নাহর ছবি
 জড়িতদের বিরুদ্ধে ব্যবস্থা নেবে ঢাকা বিশ্ববিদ্যালয় প্রশাসন
 ডাকসু সংগ্রহশালায় পাকিস্তানের তৎকালীন গভর্নর জেনারেল মুহাম্মদ আলী জিন্নাহ এবং তৎকালীন ছাত্রসংঘের নেতা আবদুল মালেকের ছবি প্রদর্শনের বিষয়টি ভাষা আন্দোলন ও স্বাধীনতার ইতিহাসের সঙ্গে সাংঘর্ষিক।
-৪৪ মিনিট আগে
+১ ঘণ্টা আগে
 ডাকসুর সংগ্রহশালা থেকে জিন্নাহর ছবি ছিঁড়ে ফেললেন এক শিক্ষার্থী
 ডাকসু সংগ্রহশালা থেকে পাকিস্তানের প্রতিষ্ঠাতা মোহাম্মদ আলী জিন্নাহর তিনটি ছবি ছিঁড়ে প্রতিবাদ জানিয়েছেন শিক্ষার্থী আবু তৈয়ব হাবিলদার।
 ৩ ঘণ্টা আগে
 আদালতের রায়ে দেউলিয়া ঘোষণা চালকল ব্যবসায়ী, ‘কিছুই করার নেই’ ২৫২ কোটি টাকা পাওনাদারদের
 বাদীপক্ষের আইনজীবী বলেছেন, আদালত কোনো তদন্ত ছাড়াই এই রায় দিলেন। আদালত কোনো তদন্ত সংস্থা দ্বারা তদন্তও করাননি।
-১৫ মিনিট আগে
+৩২ মিনিট আগে
 ঋতুপর্ণাদের না খেলিয়ে ১০ গোল হজমের দায় নিলেন বাটলার
 ২ ঘণ্টা আগে
 এ মাসেই মা হবেন অভিনেত্রী মৌসুমী, বেবি শাওয়ারে কারা এলেন
-৫৩ মিনিট আগে
+১ ঘণ্টা আগে
 ২২০০ টাকা কেজি ইলিশ, এত দাম কেন?
 ৩ ঘণ্টা আগে
 ডাকসু সংগ্রহশালায় জিন্নাহর ছবি সংযুক্ত করার প্রতিবাদে গোলাম আযমকে অপমানের ছবি লাগাল ছাত্র ফেডারেশন
@@ -240,50 +476,281 @@ Login
 হুতির হামলায় মক্কা চুক্তি কি কার্যকর হবে
 ৩ ঘণ্টা আগে
 ব্রিকস সম্মেলন: একতরফা নিষেধাজ্ঞা ও বাড়তি শুল্কের নিন্দা, কিন্তু যুক্তরাষ্ট্রের নাম উল্লেখ করা হলো না
-৩ ঘণ্টা আগে&lt;/p&gt;</description>
+৪ ঘণ্টা আগে</p>]]></content:encoded>
       <guid isPermaLink="false">https://www.prothomalo.com/</guid>
       <enclosure url="https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>আজকের খবর | আজকের ব্রেকিং নিউজ বাংলাদেশ</title>
+      <link>https://www.prothomalo.com/collection/latest</link>
+      <description>আজকের খবর | আজকের ব্রেকিং নিউজ বাংলাদেশ</description>
+      <content:encoded><![CDATA[<p><img src="https://media.prothomalo.com/prothomalo-bangla/2021-04/99bb8379-f7b0-49f2-9ef7-368619bdeaa6/2021_04_01.png" alt="আজকের খবর | আজকের ব্রেকিং নিউজ বাংলাদেশ" style="max-width:100%; height:auto; border-radius:8px;"/></p><p>Login
+সর্বশেষ
+বাংলাদেশ
+রাজনীতি
+বিশ্ব
+বাণিজ্য
+মতামত
+খেলা
+বিনোদন
+চাকরি
+জীবনযাপন
+ভিডিও
+খুঁজুন
+ই-পেপার
+Eng
+Login
+সর্বশেষ</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.prothomalo.com/collection/latest</guid>
+      <enclosure url="https://media.prothomalo.com/prothomalo-bangla/2021-04/99bb8379-f7b0-49f2-9ef7-368619bdeaa6/2021_04_01.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Office of the Pro Vice-Chancellor (Academic)</title>
+      <link>https://www.ru.ac.bd/pro-vc-academic/</link>
+      <description>Office of the Pro Vice-Chancellor (Academic)
+
+Dr. Mamunur Rashid
+Pro Vice-Chancellor (Academic)
+University of Rajshahi
+At The University of Rajshahi, we are committed to provide excellent education, practical training, and modern facilities that enab...</description>
+      <content:encoded><![CDATA[<p>Office of the Pro Vice-Chancellor (Academic)</p><p>Dr. Mamunur Rashid
+Pro Vice-Chancellor (Academic)
+University of Rajshahi
+At The University of Rajshahi, we are committed to provide excellent education, practical training, and modern facilities that enable students to excel in their chosen careers. We continuously update our academic programs and curricula to meet the evolving demands of professions, industries, and society. Our goal is to create a supportive learning environment that fosters academic excellence, critical thinking, creativity, leadership, and sportsmanship.
+We believe in the holistic development of our students. Alongside academic achievement, we encourage the growth of creative, artistic, and intellectual talents so that our graduates become capable professionals and responsible citizens. The remarkable success of our alumni at home and abroad reflects our commitment to quality education and professional excellence.
+As we look toward the future, we recognize that knowledge, innovation, and marketable skills will remain essential resources in an increasingly competitive global environment. Our mission is to equip students with specialized knowledge, research capabilities, communication skills, and problem-solving abilities that will enable them to contribute meaningfully to society.
+Our ambition is to establish University of Rajshahi as a globally recognized institution with strong international partnerships and networks. Through excellence in teaching, research, and innovation, we aim to provide a truly global education that prepares students for exciting careers, entrepreneurial opportunities, leadership roles, and responsible global citizenship in the 21st century.
+We believe in the holistic development of our students. Alongside academic achievement, we encourage the growth of creative, artistic, and intellectual talents so that our graduates become capable professionals and responsible citizens. The remarkable success of our alumni at home and abroad reflects our commitment to quality education and professional excellence.
+As we look toward the future, we recognize that knowledge, innovation, and marketable skills will remain essential resources in an increasingly competitive global environment. Our mission is to equip students with specialized knowledge, research capabilities, communication skills, and problem-solving abilities that will enable them to contribute meaningfully to society.
+Our ambition is to establish University of Rajshahi as a globally recognized institution with strong international partnerships and networks. Through excellence in teaching, research, and innovation, we aim to provide a truly global education that prepares students for exciting careers, entrepreneurial opportunities, leadership roles, and responsible global citizenship in the 21st century.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.ru.ac.bd/pro-vc-academic/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Convocation</title>
+      <link>https://www.ru.ac.bd/elementor-9316/</link>
+      <description>Welcome to the University of Rajshahi
+The University of Rajshahi is one of the largest universities in the country and the largest with the highest seat of learning in the northern region of Bangladesh. After its foundation on July 6, 1953, the unive...</description>
+      <content:encoded><![CDATA[<p>Welcome to the University of Rajshahi
+The University of Rajshahi is one of the largest universities in the country and the largest with the highest seat of learning in the northern region of Bangladesh. After its foundation on July 6, 1953, the university has been providing higher education and research. The university is located on a 753-acre campus on the green premises of Motihar, which is very close to the mighty river Padma and seven km east of the Rajshahi City Center.
+The necessity of a university in the northern part of East Pakistan was felt immediately after the creation of Pakistan. These areas were comparatively lagging behind in higher education, and the University of Dhaka, then the only university of its kind in the country, being situated in the capital, was not very easily accessible to the students of this part. Following a popular demand for a university in this region, the government prepared a feasibility report, and Rajshahi was found suitable for establishing the same. The Rajshahi University Act 1953 (East Bengal Act XV of 1953) was passed by the East Pakistan provincial assembly on March 31, 1953. Bara Kuthi, an 18th century Dutch trading house, was made the administration building. Dr. Itrat Hossain Zeberi was the first Vice-Chancellor of the University. Its normal academic activities began in 1954. During the early days of its inception, classes were held at Rajshahi Government College. In 1961, the university moved to its present campus.
+The university’s 59 departments are organized into twelve faculties. It has six institutes, of which two (IBA and IER) have undergrad and postgraduate programs. The University of Rajshahi is considered as one of the top research universities in Bangladesh. Recently, researchers from this university have made substantial contributions and played a key role in bringing back the ancient Bangladeshi Muslin fiber. The researchers of this university have also created the country’s first and only “snake database”, including snakes’ venom and their toxicity. The university has a strong alumni community around Bangladesh and abroad.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.ru.ac.bd/elementor-9316/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RU Online Services</title>
+      <link>https://www.ru.ac.bd/online-services/</link>
+      <description>RU Online Services RU Online Services Webmail Information Update Annual Reporting System Application for Certificate &amp; Transcript Form Fill-up System for Students Exam Form Fill-up ( From Session 2022-2023) Internet Registration/Cancellation for Resi...</description>
+      <content:encoded><![CDATA[<p>RU Online Services RU Online Services Webmail Information Update Annual Reporting System Application for Certificate & Transcript Form Fill-up System for Students Exam Form Fill-up ( From Session 2022-2023) Internet Registration/Cancellation for Residence (Teacher/Officer/ MPhil/PhD/ International Student) Student Feedback System Registration Form Download System Hall Residency Application Medical Center Guest House Booking RU Online Services Webmail Information Update Annual Reporting System Application for Certificate & Transcript Form Fill-up System for Students Registration Form Download System Internet Registration/Cancellation for Residence (Teacher/Officer/MPhil/PhD/International Student) Student Feedback System</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.ru.ac.bd/online-services/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://www.ru.ac.bd/publications/</link>
+      <description>Publications</description>
+      <content:encoded><![CDATA[<p>Publications Publications Publications Office Annual Reports RU Journals RU Journals Call for Papers Publications Publications Office Annual Reports RU Journals Bidyabarta</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.ru.ac.bd/publications/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facilities</title>
+      <link>https://www.ru.ac.bd/facilities/</link>
+      <description>Facilities Facilities ICT Center Central Library Transport Alumni Science Workshop Mental Health Center Different Associations TSCC Medical Center Residence Halls Varendra Research Museum Central Science Lab Career Counselling Center Dhaka Guest Hous...</description>
+      <content:encoded><![CDATA[<p>Facilities Facilities ICT Center Central Library Transport Alumni Science Workshop Mental Health Center Different Associations TSCC Medical Center Residence Halls Varendra Research Museum Central Science Lab Career Counselling Center Dhaka Guest House Physical Education Facilities ICT Center Central Library Transport Alumni Science Workshop Mental Health Center Academic Building Associations Different Associations Physical Education Medical Center Residence Hall Varendra Research Museum International Affairs (OIA) Central Science Lab Career Counselling Center TSCC</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.ru.ac.bd/facilities/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Academic</title>
+      <link>https://www.ru.ac.bd/academic/</link>
+      <description>Academic</description>
+      <content:encoded><![CDATA[<p>Academic Academic Faculties Institutes Departments Schools Affiliated Colleges & Institutions Office of The International Affairs Academic Faculty Institute Departments Schools Affiliated Colleges & Institutions Office of The International Affairs</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.ru.ac.bd/academic/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Central Library, University of Rajshahi</title>
+      <link>http://library.ru.ac.bd</link>
+      <description>Central Library, University of Rajshahi</description>
+      <content:encoded><![CDATA[<p>Advanced Search | Visit Online Catalogue
+Sunday – Thursday: 9:00am – 10:00pm
+Friday: 03:00pm – 10:00pm
+Saturday: 09:00am – 10:00pm
+Details
+Details
+Details
+Details
+Details
+Details
+Details
+Details
+Details
+Details
+Details</p>]]></content:encoded>
+      <guid isPermaLink="false">http://library.ru.ac.bd</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Administration</title>
       <link>https://www.ru.ac.bd/administration/</link>
-      <description>&lt;p&gt;Administration Administration of RU Vice-Chancellor Pro Vice-Chancellor (Administration) Pro Vice-Chancellor (Academic) Treasurer Registrar Inspector of Colleges Proctor Student Adviser Public Relations Archives Exam Controller RUCSU Other Offices Administration Vice-Chancellor Pro Vice-Chancellor (Administration) Pro Vice-Chancellor (Academic) Treasurer Registrar Inspector of Colleges Proctor Student Adviser Public Relations Exam Controller Other Offices&lt;/p&gt;</description>
+      <description>Administration Administration of RU Vice-Chancellor Pro Vice-Chancellor (Administration) Pro Vice-Chancellor (Academic) Treasurer Registrar Inspector of Colleges Proctor Student Adviser Public Relations Archives Exam Controller RUCSU Other Offices Ad...</description>
+      <content:encoded><![CDATA[<p>Administration Administration of RU Vice-Chancellor Pro Vice-Chancellor (Administration) Pro Vice-Chancellor (Academic) Treasurer Registrar Inspector of Colleges Proctor Student Adviser Public Relations Archives Exam Controller RUCSU Other Offices Administration Vice-Chancellor Pro Vice-Chancellor (Administration) Pro Vice-Chancellor (Academic) Treasurer Registrar Inspector of Colleges Proctor Student Adviser Public Relations Exam Controller Other Offices</p>]]></content:encoded>
       <guid isPermaLink="false">https://www.ru.ac.bd/administration/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Governance</title>
       <link>https://www.ru.ac.bd/governance/</link>
-      <description>&lt;p&gt;Governance Governance Academic Council Senate Syndicate Finance Committee Governance Academic Council Senate Syndicate Finance Committee&lt;/p&gt;</description>
+      <description>Governance</description>
+      <content:encoded><![CDATA[<p>Governance Governance Academic Council Senate Syndicate Finance Committee Governance Academic Council Senate Syndicate Finance Committee</p>]]></content:encoded>
       <guid isPermaLink="false">https://www.ru.ac.bd/governance/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Office of the Pro-Vice Chancellor (Administration)</title>
+      <link>https://www.ru.ac.bd/pro-vc-administration/</link>
+      <description>Office of the Pro-Vice Chancellor (Administration)
+
+Dr. Md. Abdul Alim
+Pro-Vice Chancellor (Administration)
+University of Rajshahi
+									We, at Rajshahi University, are committed to provide you with excellent education, practical training and requ...</description>
+      <content:encoded><![CDATA[<p>Office of the Pro-Vice Chancellor (Administration)</p><p>Dr. Md. Abdul Alim
+Pro-Vice Chancellor (Administration)
+University of Rajshahi
+									We, at Rajshahi University, are committed to provide you with excellent education, practical training and required facilities that will enable you for the careers you choose to pursue. To fulfill our commitment, we continuously update our courses and curricula keeping in view the changing needs of different professions, industries and societies. 
+We emphasise on imparting quality education to our students in an encouraging and congenial environment; we pay equal attention to their holistic development as well. We provide them with ample opportunities for translating their potentials and demonstrate their intellectual capacity, critical acumen and artistic skills.
+We want our students to be well-trained and responsible citizens. You will be happy to know that the track record of the achievements of our alumni is truly impressive. Hundreds of our former students have proved their personal worth and professional excellence in various sectors both at home and abroad.
+We emphasise on imparting quality education to our students in an encouraging and congenial environment; we pay equal attention to their holistic development as well. We provide them with ample opportunities for translating their potentials and demonstrate their intellectual capacity, critical acumen and artistic skills.
+We want our students to be well-trained and responsible citizens. You will be happy to know that the track record of the achievements of our alumni is truly impressive. Hundreds of our former students have proved their personal worth and professional excellence in various sectors both at home and abroad.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.ru.ac.bd/pro-vc-administration/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Welcome to Institutional Quality Assurance Cell</title>
       <link>https://www.ru.ac.bd/iqac/</link>
-      <description>&lt;p&gt;Welcome to Institutional Quality Assurance Cell
+      <description>Welcome to Institutional Quality Assurance Cell
+
 Professor Dr. Md. Abu Reza
+Director
+Institutional Quality Assurance Cell
+As a continuing process of quality assurance the UGC recommended the institutionalization of internal system of quality assuranc...</description>
+      <content:encoded><![CDATA[<p>Welcome to Institutional Quality Assurance Cell</p><p>Professor Dr. Md. Abu Reza
 Director
 Institutional Quality Assurance Cell
 As a continuing process of quality assurance the UGC recommended the institutionalization of internal system of quality assurance at University of Rajshahi through Institutional Quality Assurance Cell (IQAC) at University level. University of Rajshahi being fully aware of a high-quality learning experience for students immediately addressed the UGCs directive and established the IQAC.
 The IQAC is expected to work closely with academic and administrative units across the University in maintaining internal as well as external quality assurance. In carrying out these responsibilities IQAC will facilitate the academic and administrative units of University of Rajshahi in program planning, development and review, and disseminate information and guidance on quality assurance through various means such as offering training and advice to faculty members and administrative staffs on the different processes. The IQAC is also responsible for ascertaining that the University’s quality assurance policies and procedures are robust and effective in maintaining and monitoring the standards of its academic degrees and in supporting the enhancement of the students’ learning experience.
 Quality assurance is a team work and IQAC alone cannot implement it. The desired result of quality assurance at University of Rajshahi can only be achieved through the effective participation of all the stake holders.
-I seek whole hearted and enthusiastic support from all.&lt;/p&gt;</description>
+I seek whole hearted and enthusiastic support from all.
+Latest Events</p>]]></content:encoded>
       <guid isPermaLink="false">https://www.ru.ac.bd/iqac/</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Telegram] ব্রহ্মপুত্র নদের তীরে ভিসি বাসভবনে যেয়ে দেখা করতে হবে বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ের ন...</title>
+      <link>https://t.me/admissionnewsnetwork/5833</link>
+      <description>ব্রহ্মপুত্র নদের তীরে ভিসি বাসভবনে যেয়ে দেখা করতে হবে বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ের ন...</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn5.telesco.pe/file/v8sQKYGopCGTzvvGfehyop4xDKzdLtWhbdQV3d1lRnT4Qw4DTUT8vDSn6fqdqrVEGAYYWMQyoChgdnSPFJpttiSlI0vNCKskdEcQbESBKiQrDpgtjnJcc2jEB4OiYpPcfL1kZ1mmsSr1dkkkeFsqoQJVEpT3DtfXkW7QKxy4rNnm4sS1gOytNzUeHkQSHPkBEdLutYTr0DjPoxd_wOcTaV6BaL4Tg7lVUK9ySVUMn19-8n5sMDVE1j_RZUApXxVtThRFQ0LO5bHqpKUEbE4da47EunxojiDNqvqhfNwoYivwdg518mh11BdwIhOihT_On3nEs-ebYr4Q2z-2t3ONGg.jpg" style="max-width:100%; border-radius:8px;"/></p><p>ব্রহ্মপুত্র নদের তীরে ভিসি বাসভবনে যেয়ে দেখা করতে হবে বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ের নতুন উপাচার্যর সাথে নাহলে জমবে না খেলা</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5833</guid>
+      <enclosure url="https://cdn5.telesco.pe/file/v8sQKYGopCGTzvvGfehyop4xDKzdLtWhbdQV3d1lRnT4Qw4DTUT8vDSn6fqdqrVEGAYYWMQyoChgdnSPFJpttiSlI0vNCKskdEcQbESBKiQrDpgtjnJcc2jEB4OiYpPcfL1kZ1mmsSr1dkkkeFsqoQJVEpT3DtfXkW7QKxy4rNnm4sS1gOytNzUeHkQSHPkBEdLutYTr0DjPoxd_wOcTaV6BaL4Tg7lVUK9ySVUMn19-8n5sMDVE1j_RZUApXxVtThRFQ0LO5bHqpKUEbE4da47EunxojiDNqvqhfNwoYivwdg518mh11BdwIhOihT_On3nEs-ebYr4Q2z-2t3ONGg.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 05:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় ভর্তি পরীক্ষা ২৯ জানুয়ারি অনুষ্ঠিত হবে</title>
+      <link>https://t.me/admissionnewsnetwork/5835</link>
+      <description>বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় ভর্তি পরীক্ষা ২৯ জানুয়ারি অনুষ্ঠিত হবে</description>
+      <content:encoded><![CDATA[<p>বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় ভর্তি পরীক্ষা ২৯ জানুয়ারি অনুষ্ঠিত হবে</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5835</guid>
+      <pubDate>Tue, 08 Sep 2026 07:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] কৃষি গুচ্ছ ভর্তি পরীক্ষা ২ জানুয়ারি অনুষ্ঠিত হবে এবং নেতৃত্বে থাকবে শেরেবাংলা কৃষি বি...</title>
+      <link>https://t.me/admissionnewsnetwork/5836</link>
+      <description>কৃষি গুচ্ছ ভর্তি পরীক্ষা ২ জানুয়ারি অনুষ্ঠিত হবে এবং নেতৃত্বে থাকবে শেরেবাংলা কৃষি বি...</description>
+      <content:encoded><![CDATA[<p>কৃষি গুচ্ছ ভর্তি পরীক্ষা ২ জানুয়ারি অনুষ্ঠিত হবে এবং নেতৃত্বে থাকবে শেরেবাংলা কৃষি বিশ্ববিদ্যালয়</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5836</guid>
+      <pubDate>Tue, 08 Sep 2026 11:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] ২০২১-২২ সেশন কৃষি গুচ্ছ ভর্তি পরীক্ষায় শেরে বাংলা কৃষি বিশ্ববিদ্যালয় নেতৃত্বে ছিল</title>
+      <link>https://t.me/admissionnewsnetwork/5837</link>
+      <description>২০২১-২২ সেশন কৃষি গুচ্ছ ভর্তি পরীক্ষায় শেরে বাংলা কৃষি বিশ্ববিদ্যালয় নেতৃত্বে ছিল</description>
+      <content:encoded><![CDATA[<p>২০২১-২২ সেশন কৃষি গুচ্ছ ভর্তি পরীক্ষায় শেরে বাংলা কৃষি বিশ্ববিদ্যালয় নেতৃত্বে ছিল</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5837</guid>
+      <pubDate>Tue, 08 Sep 2026 12:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] এখন পর্যন্ত যেসব বিশ্ববিদ্যালয় ভর্তি পরীক্ষার তারিখ প্রকাশিত হয়েছে
+কৃষি গুচ্ছ
+বাংলাদে...</title>
+      <link>https://t.me/admissionnewsnetwork/5838</link>
+      <description>এখন পর্যন্ত যেসব বিশ্ববিদ্যালয় ভর্তি পরীক্ষার তারিখ প্রকাশিত হয়েছে
+কৃষি গুচ্ছ
+বাংলাদে...</description>
+      <content:encoded><![CDATA[<p>এখন পর্যন্ত যেসব বিশ্ববিদ্যালয় ভর্তি পরীক্ষার তারিখ প্রকাশিত হয়েছে<br/>কৃষি গুচ্ছ<br/>বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়<br/>বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয়<br/>হাবিপ্রবি<br/>শাবিপ্রবি<br/>কুয়েট<br/>বিইউপি<br/>রুয়েট<br/>কুয়েট<br/>খুবি<br/>চট্টগ্রাম বিশ্ববিদ্যালয়<br/>এমআইএসটি<br/>রাজশাহী বিশ্ববিদ্যালয়<br/>জগন্নাথ বিশ্ববিদ্যালয়<br/>ঢাকা বিশ্ববিদ্যালয়<br/>@ Chorcha Discount Cupon - ANN20</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5838</guid>
+      <pubDate>Tue, 08 Sep 2026 17:17:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] খুলনা বিশ্ববিদ্যালয় D Unit (Management and Business Administration School) এর সিলেবাস...</title>
+      <link>https://t.me/admissionnewsnetwork/5839</link>
+      <description>খুলনা বিশ্ববিদ্যালয় D Unit (Management and Business Administration School) এর সিলেবাস...</description>
+      <content:encoded><![CDATA[<p>খুলনা বিশ্ববিদ্যালয় D Unit (Management and Business Administration School) এর সিলেবাসে পরিবর্তন আনা হয়েছে<br/>বিজ্ঞান - ইংরেজী, সাধারণ জ্ঞান ও গণিত<br/>মানবিক - ইংরেজী, সাধারণ জ্ঞান ও আইসিটি<br/>বাণিজ্য - ইংরেজী, সাধারণ জ্ঞান ও হিসাববিজ্ঞান<br/>- অধ্যাপক ড. রুমানা হক<br/>ডিন, ব্যবস্থাপনা ও ব্যবসায় প্রশাসন স্কুল</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5839</guid>
+      <pubDate>Tue, 08 Sep 2026 18:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] শেরে বাংলা কৃষি বিশ্ববিদ্যালয় উপাচার্য
+🗣️</title>
+      <link>https://t.me/admissionnewsnetwork/5841</link>
+      <description>শেরে বাংলা কৃষি বিশ্ববিদ্যালয় উপাচার্য
+🗣️</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn5.telesco.pe/file/qgCYcdyOsttso2yQFqiK7y8HPJmJhJxC0HnXgwTxslZgLJd6BjJ9sqU1-SLOrYBeZbC4Xvl7Pmgbh1sqZRuaPcfZXLYncAFboyzvQwu5nLcQiVUxuZP-rK7mn5LLj9txaxKjkX9u-MQnRM9xvzCXTUIZ3ZbatOYfmge24Bf48V6tcXQ1GvqG1SvXV22bZJ_F53hnpR3rB6CYMvetIkuLItE0pVLlIIosI0OErFRf7PBNwMXET1lXGHn2oU_4HOr8Ae7JndVOWSJgLOWeCmTaAjjCpSITPFRMskTwdR2FjIl5R4Tqxu3ULYuz2lrtfFMlFQ2narugzfkwBDMnuKYp3w.jpg" style="max-width:100%; border-radius:8px;"/></p><p>শেরে বাংলা কৃষি বিশ্ববিদ্যালয় উপাচার্য<br/>🗣️</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5841</guid>
+      <enclosure url="https://cdn5.telesco.pe/file/qgCYcdyOsttso2yQFqiK7y8HPJmJhJxC0HnXgwTxslZgLJd6BjJ9sqU1-SLOrYBeZbC4Xvl7Pmgbh1sqZRuaPcfZXLYncAFboyzvQwu5nLcQiVUxuZP-rK7mn5LLj9txaxKjkX9u-MQnRM9xvzCXTUIZ3ZbatOYfmge24Bf48V6tcXQ1GvqG1SvXV22bZJ_F53hnpR3rB6CYMvetIkuLItE0pVLlIIosI0OErFRf7PBNwMXET1lXGHn2oU_4HOr8Ae7JndVOWSJgLOWeCmTaAjjCpSITPFRMskTwdR2FjIl5R4Tqxu3ULYuz2lrtfFMlFQ2narugzfkwBDMnuKYp3w.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 04:41:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] এখানে আবেদন লিংক, এডমিট কার্ড ডাউনলোড, আবেদন সময়সীমা, ইউনিটভিত্তিক পরীক্ষা তারিখ ইত্য...</title>
+      <link>https://t.me/admissionnewsnetwork/5843</link>
+      <description>এখানে আবেদন লিংক, এডমিট কার্ড ডাউনলোড, আবেদন সময়সীমা, ইউনিটভিত্তিক পরীক্ষা তারিখ ইত্য...</description>
+      <content:encoded><![CDATA[<p>এখানে আবেদন লিংক, এডমিট কার্ড ডাউনলোড, আবেদন সময়সীমা, ইউনিটভিত্তিক পরীক্ষা তারিখ ইত্যাদি থাকবে<br/>https://docs.google.com/spreadsheets/d/1xxWF3zgW6oKIjmHCEJFWqT86x0ETTWXqYA9MSpEqyag/edit?usp=drivesdk<br/>পরীক্ষার রেজাল্ট + সিলেকশন এর তারিখগুলো দেয়া হয়নি।<br/>আর যেগুলোতে ক্রস (x) দেয়া আছে সেগুলা পরে আপডেট করে দেয়া হবে<br/>@ Chorcha Discount Cupon - ANN20</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5843</guid>
+      <pubDate>Wed, 09 Sep 2026 07:32:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] গবেষণার বাজেট, পিএইচডিধারী স্থায়ী শিক্ষক এবং আন্তর্জাতিক মানের প্রকাশনার জন্য মানসম্ম...</title>
+      <link>https://t.me/admissionnewsnetwork/5847</link>
+      <description>গবেষণার বাজেট, পিএইচডিধারী স্থায়ী শিক্ষক এবং আন্তর্জাতিক মানের প্রকাশনার জন্য মানসম্ম...</description>
+      <content:encoded><![CDATA[<p>গবেষণার বাজেট, পিএইচডিধারী স্থায়ী শিক্ষক এবং আন্তর্জাতিক মানের প্রকাশনার জন্য মানসম্মত কিছু বেসরকারি বিশ্ববিদ্যালয়ে PhD প্রোগ্রাম চালু করা হবে (BRAC), (NSU), (EWU), (IUB), (AIUB), (AUST), (DIU), (UAP), (UIU)</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5847</guid>
+      <pubDate>Thu, 10 Sep 2026 14:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] বাঘ কখন ও পাবলিক বিশ্ববিদ্যালয়ে এডমিশন দেয় না সরাসরি প্রাইভেট ইউনিভার্সিটিতে ভর্তি হয়</title>
+      <link>https://t.me/admissionnewsnetwork/5848</link>
+      <description>বাঘ কখন ও পাবলিক বিশ্ববিদ্যালয়ে এডমিশন দেয় না সরাসরি প্রাইভেট ইউনিভার্সিটিতে ভর্তি হয়</description>
+      <content:encoded><![CDATA[<p>বাঘ কখন ও পাবলিক বিশ্ববিদ্যালয়ে এডমিশন দেয় না সরাসরি প্রাইভেট ইউনিভার্সিটিতে ভর্তি হয়</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5848</guid>
+      <pubDate>Fri, 11 Sep 2026 04:46:18 +0000</pubDate>
+    </item>
+    <item>
       <title>[Telegram] গুচ্ছ ভর্তি পরীক্ষায় মূল দায়িত্বে থাকবে পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</title>
       <link>https://t.me/admissionnewsnetwork/5849</link>
-      <description>&lt;p&gt;গুচ্ছ ভর্তি পরীক্ষায় মূল দায়িত্বে থাকবে পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়&lt;/p&gt;</description>
+      <description>গুচ্ছ ভর্তি পরীক্ষায় মূল দায়িত্বে থাকবে পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</description>
+      <content:encoded><![CDATA[<p>গুচ্ছ ভর্তি পরীক্ষায় মূল দায়িত্বে থাকবে পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</p>]]></content:encoded>
       <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5849</guid>
       <pubDate>Fri, 11 Sep 2026 10:36:14 +0000</pubDate>
     </item>
     <item>
       <title>[Telegram] শরীয়তপুর কৃষি বিশ্ববিদ্যালয় (শকৃবি) এর উপাচার্য ড. হোসেন উদ্দিন শেখর</title>
       <link>https://t.me/admissionnewsnetwork/5850</link>
-      <description>&lt;p&gt;শরীয়তপুর কৃষি বিশ্ববিদ্যালয় (শকৃবি) এর উপাচার্য ড. হোসেন উদ্দিন শেখর&lt;/p&gt;</description>
+      <description>শরীয়তপুর কৃষি বিশ্ববিদ্যালয় (শকৃবি) এর উপাচার্য ড. হোসেন উদ্দিন শেখর</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn5.telesco.pe/file/a5b94X7GmgZzYyEcAYjgRdJ2g1T3nH3zJGFuqzf92MhBHxUwSCW5GKELnIkD6FqowoNffo4XrKZFQ92EW2LPqwygdrTfhZQ5I_ZyfRRueqlJC1PitJVzBPAt3hDM4783kO3oO8OZA48jhEn0bmBGJnjYQ_1dnEovLyYo7lfrtp-UHeuZa-b8-pI65T9bQnHjogAodW5DBXzuvUx64ri57ZyH-CuWadkIlIMTgBADlHKIEVqAfXrbX6hOzxS6K1LXf6Dz0k5g5sPu37o0rhrZaPfi5LHi2hvObNfstULI4eXmmbbNDcH_dw7gpxnYZ-pn7WQlv1aOlocAMDRUzbC-1w.jpg" style="max-width:100%; border-radius:8px;"/></p><p>শরীয়তপুর কৃষি বিশ্ববিদ্যালয় (শকৃবি) এর উপাচার্য ড. হোসেন উদ্দিন শেখর</p>]]></content:encoded>
       <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5850</guid>
       <enclosure url="https://cdn5.telesco.pe/file/a5b94X7GmgZzYyEcAYjgRdJ2g1T3nH3zJGFuqzf92MhBHxUwSCW5GKELnIkD6FqowoNffo4XrKZFQ92EW2LPqwygdrTfhZQ5I_ZyfRRueqlJC1PitJVzBPAt3hDM4783kO3oO8OZA48jhEn0bmBGJnjYQ_1dnEovLyYo7lfrtp-UHeuZa-b8-pI65T9bQnHjogAodW5DBXzuvUx64ri57ZyH-CuWadkIlIMTgBADlHKIEVqAfXrbX6hOzxS6K1LXf6Dz0k5g5sPu37o0rhrZaPfi5LHi2hvObNfstULI4eXmmbbNDcH_dw7gpxnYZ-pn7WQlv1aOlocAMDRUzbC-1w.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 12 Sep 2026 11:35:13 +0000</pubDate>
@@ -291,7 +758,8 @@ I seek whole hearted and enthusiastic support from all.&lt;/p&gt;</description>
     <item>
       <title>[Telegram] ৬০ তম পাবলিক বিশ্ববিদ্যালয় নাবিপ্রবি</title>
       <link>https://t.me/admissionnewsnetwork/5851</link>
-      <description>&lt;p&gt;৬০ তম পাবলিক বিশ্ববিদ্যালয় নাবিপ্রবি&lt;/p&gt;</description>
+      <description>৬০ তম পাবলিক বিশ্ববিদ্যালয় নাবিপ্রবি</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn5.telesco.pe/file/PnlhiKkeG0W6acrCa8VanRHCUwsdHxj3QgwdxvdpYPSMRGQWdHVgELy-MS1kDjq2Mu_UvKb53BNIjJ0yXG4jKXf4WNuJIZ2dRiqrtBQbyssNA136k-4gfQO_6zR6TyKUh43FCfbVU4AfdEReDSBjAk8VaBOtiVK1IJ5-Yl2QW3O0bUBOm8GQf0i4qL-Tyv-dZJT6t_xVgMd6ELRRJGfDMJlQcVGUCfDnWGyFqWa1Fc7Mx3csZ_nsDqxlmbOoScuDO5vM-Ef-D14QQSqMBENloAIYEQLt32dFJDEhbhyN6nbfYk0XZRP_POddNkX6S0ZNqVOoVThShTv9yDkfmgMwGw.jpg" style="max-width:100%; border-radius:8px;"/></p><p>৬০ তম পাবলিক বিশ্ববিদ্যালয় নাবিপ্রবি</p>]]></content:encoded>
       <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5851</guid>
       <enclosure url="https://cdn5.telesco.pe/file/PnlhiKkeG0W6acrCa8VanRHCUwsdHxj3QgwdxvdpYPSMRGQWdHVgELy-MS1kDjq2Mu_UvKb53BNIjJ0yXG4jKXf4WNuJIZ2dRiqrtBQbyssNA136k-4gfQO_6zR6TyKUh43FCfbVU4AfdEReDSBjAk8VaBOtiVK1IJ5-Yl2QW3O0bUBOm8GQf0i4qL-Tyv-dZJT6t_xVgMd6ELRRJGfDMJlQcVGUCfDnWGyFqWa1Fc7Mx3csZ_nsDqxlmbOoScuDO5vM-Ef-D14QQSqMBENloAIYEQLt32dFJDEhbhyN6nbfYk0XZRP_POddNkX6S0ZNqVOoVThShTv9yDkfmgMwGw.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 13 Sep 2026 13:07:28 +0000</pubDate>
@@ -299,9 +767,18 @@ I seek whole hearted and enthusiastic support from all.&lt;/p&gt;</description>
     <item>
       <title>[Telegram] কক্সবাজারে University of Blue Economy Sciences and Technology (UBEST) নামে বিশেষায়িত ...</title>
       <link>https://t.me/admissionnewsnetwork/5852</link>
-      <description>&lt;p&gt;কক্সবাজারে University of Blue Economy Sciences and Technology (UBEST) নামে বিশেষায়িত একটি পাবলিক বিশ্ববিদ্যালয় প্রতিষ্ঠা করার জন্য আহ্বান করা হয়েছে&lt;/p&gt;</description>
+      <description>কক্সবাজারে University of Blue Economy Sciences and Technology (UBEST) নামে বিশেষায়িত ...</description>
+      <content:encoded><![CDATA[<p>কক্সবাজারে University of Blue Economy Sciences and Technology (UBEST) নামে বিশেষায়িত একটি পাবলিক বিশ্ববিদ্যালয় প্রতিষ্ঠা করার জন্য আহ্বান করা হয়েছে</p>]]></content:encoded>
       <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5852</guid>
       <pubDate>Mon, 14 Sep 2026 12:26:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Telegram] Nutrition and Food Engineering এ পড়েও এইসব useless কথা শুনতে হয়</title>
+      <link>https://t.me/admissionnewsnetwork/5846</link>
+      <description>Nutrition and Food Engineering এ পড়েও এইসব useless কথা শুনতে হয়</description>
+      <content:encoded><![CDATA[<p>Nutrition and Food Engineering এ পড়েও এইসব useless কথা শুনতে হয়</p>]]></content:encoded>
+      <guid isPermaLink="false">https://t.me/admissionnewsnetwork/5846</guid>
+      <pubDate>Mon, 14 Sep 2026 14:04:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
