@@ -1,0 +1,37 @@
+name: Auto Generate & Update RSS
+
+on:
+  schedule:
+    - cron: '0 */1 * * *' # প্রতি 1 ঘণ্টা পর পর নিজে থেকে চলবে
+  workflow_dispatch:      # যেকোনো সময় নিজে বাটন চেপে চালানোর সুবিধা
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Scrape & Build RSS
+        run: |
+          python scraper.py
+
+      - name: Commit and Push Updated Feed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update feed.xml [skip ci]" && git push)
