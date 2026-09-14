@@ -3,3 +3,4 @@ beautifulsoup4
 feedgen
 trafilatura
 python-dateutil
+feedparser
