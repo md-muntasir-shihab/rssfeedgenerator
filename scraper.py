@@ -6,58 +6,96 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 from feedgen.feed import FeedGenerator
+import trafilatura
 
-# ==========================================
-# আপনার লিংক এখানে বসান:
-TARGET_URL = "https://example.com/category-news"  # <-- শুধু এখানে আপনার লিংকটি দিন
-FEED_TITLE = "Latest Category Updates"
-FEED_DESC = "Automatically updated RSS feed with images and summaries."
-# ==========================================
+# ==============================================================
+# ১. আপনার কাঙ্ক্ষিত ক্যাটাগরির লিংক এখানে বসান:
+TARGET_URL = "https://example.com/technology" 
+FEED_TITLE = "Auto Full-Text Category Feed"
+FEED_DESC = "Extracted full news, images and content every 30 minutes."
+# ==============================================================
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-    "Accept-Language": "bn-BD,bn;q=0.9,en-US;q=0.8,en;q=0.7",
+    )
 }
 
-def extract_image(tag, base_url):
-    """লেজি-লোড এবং রেটিনা ডিসপ্লে ছবি স্বয়ংক্রিয়ভাবে খুঁজে বের করে"""
-    img = tag.find("img")
-    if not img:
-        return None
-    
-    # সম্ভাব্য সব ধরনের আধুনিক লেজি-লোড অ্যাট্রিবিউট চেক
-    img_src = (
-        img.get("data-src")
-        or img.get("data-original")
-        or img.get("data-lazy-src")
-        or img.get("srcset", "").split(",")[0].split(" ")[0]
-        or img.get("src")
-    )
-    if img_src and not img_src.startswith("data:"):
-        return urljoin(base_url, img_src)
-    return None
-
-def extract_date(tag):
-    """নিউজ প্রকাশের সময় বের করার স্মার্ট লজিক"""
-    time_tag = tag.find("time")
-    if time_tag and time_tag.get("datetime"):
-        try:
-            return date_parser.parse(time_tag["datetime"])
-        except Exception:
-            pass
-    return datetime.now(timezone.utc)
-
-def scrape_and_build_feed():
-    session = requests.Session()
-    response = session.get(TARGET_URL, headers=HEADERS, timeout=20)
+def get_article_links(category_url):
+    """ক্যাটাগরি পেজ থেকে সংবাদের ইন্ডিভিজুয়াল লিংকগুলো সংগ্রহ করে"""
+    response = requests.get(category_url, headers=HEADERS, timeout=20)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
 
+    discovered_links = []
+    seen = set()
+
+    for a_tag in soup.find_all("a", href=True):
+        href = a_tag["href"].strip()
+        full_url = urljoin(category_url, href)
+
+        # হোমপেজ, ক্যাটাগরি বা অপ্রয়োজনীয় লিংক বাদ দেওয়ার ফিল্টার
+        if (
+            full_url == category_url
+            or full_url in seen
+            or any(x in full_url for x in ["#", "/tag/", "/category/", "/author/", "facebook.com", "twitter.com"])
+        ):
+            continue
+
+        # লিংকটি আসল কোনো নিউজের পেজ কিনা তা যাচাই
+        if len(full_url.replace(category_url, "")) > 5:
+            seen.add(full_url)
+            discovered_links.append(full_url)
+
+    return discovered_links[:10]  # প্রতি রান-এ সর্বশেষ ১০টি আর্টিকেলের ভেতরে ঢুকবে
+
+
+def extract_full_article(article_url):
+    """আর্টিকেলের লিংকের ভেতর ঢুকে সম্পূর্ণ লেখা, ছবি ও তারিখ বের করে"""
+    downloaded = trafilatura.fetch_url(article_url)
+    if not downloaded:
+        return None
+
+    # মেটাডাটা ও মূল কনটেন্ট পার্সিং
+    metadata = trafilatura.extract_metadata(downloaded)
+    full_text = trafilatura.extract(
+        downloaded,
+        include_images=True,
+        include_formatting=True,
+        output_format="txt"
+    )
+
+    if not metadata or not full_text:
+        return None
+
+    title = metadata.title
+    image_url = metadata.image
+    date_val = metadata.date
+
+    # তারিখ কনভার্ট করা
+    try:
+        pub_date = date_parser.parse(date_val).replace(tzinfo=timezone.utc) if date_val else datetime.now(timezone.utc)
+    except Exception:
+        pub_date = datetime.now(timezone.utc)
+
+    # সাধারণ টেক্সটকে সুন্দর HTML প্যারাগ্রাফে রূপান্তর
+    paragraphs = [f"<p>{p.strip()}</p>" for p in full_text.split("\n\n") if p.strip()]
+    article_html = "".join(paragraphs)
+
+    return {
+        "title": title,
+        "url": article_url,
+        "image": image_url,
+        "date": pub_date,
+        "content_html": article_html
+    }
+
+
+def generate_rss():
+    links = get_article_links(TARGET_URL)
+    
     fg = FeedGenerator()
     fg.id(TARGET_URL)
     fg.title(FEED_TITLE)
@@ -65,68 +103,34 @@ def scrape_and_build_feed():
     fg.description(FEED_DESC)
     fg.language("bn")
 
-    # সাইটের নিউজ কার্ডগুলো স্মার্টলি শনাক্ত করা
-    cards = soup.find_all("article")
-    if not cards or len(cards) < 3:
-        cards = soup.select(
-            ".news-card, .news-item, .post, .card, .story, .archive-item, .item-details"
-        )
-    if not cards:
-        # কোনো নির্দিষ্ট ক্লাস না মিললে সব বড় হেডিংকে কার্ড হিসেবে ধরা
-        cards = [h.find_parent(["div", "li"]) for h in soup.find_all(["h2", "h3"])]
-        cards = [c for c in cards if c is not None]
+    for link in links:
+        try:
+            data = extract_full_article(link)
+            if not data or not data["title"]:
+                continue
 
-    seen_links = set()
-    count = 0
+            entry = fg.add_entry()
+            entry.id(data["url"])
+            entry.title(data["title"])
+            entry.link(href=data["url"])
+            entry.pubDate(data["date"])
 
-    for card in cards:
-        if count >= 20:  # সর্বশেষ ২০টি খবর নেবে
-            break
+            # আর্টিকেলের শুরুতে বড় ছবি যুক্ত করা
+            content = ""
+            if data["image"]:
+                content += f'<p><img src="{data["image"]}" alt="{data["title"]}" style="max-width:100%; height:auto; border-radius:8px;"/></p>'
+                entry.enclosure(url=data["image"], type="image/jpeg", length="0")
 
-        # টাইটেল ও লিংক বের করা
-        heading = card.find(["h1", "h2", "h3", "h4"]) or card.find("a")
-        link_tag = card.find("a", href=True)
-        if not heading or not link_tag:
+            # সম্পূর্ণ আর্টিকেল বডি যুক্ত করা
+            content += data["content_html"]
+            entry.description(content)
+
+        except Exception as err:
+            print(f"Error scraping {link}: {err}")
             continue
-
-        title = heading.get_text(strip=True)
-        link = urljoin(TARGET_URL, link_tag["href"])
-
-        # অপ্রয়োজনীয় লিংক এবং ডুপ্লিকেট বাদ দেওয়া
-        if not title or len(title) < 8 or link in seen_links:
-            continue
-        seen_links.add(link)
-
-        # সামারি / সারসংক্ষেপ
-        desc_tag = card.find(["p", ".summary", ".excerpt", ".lead"])
-        summary = desc_tag.get_text(strip=True) if desc_tag else title
-        summary = re.sub(r"\s+", " ", summary)  # অতিরিক্ত স্পেস ক্লিন করা
-
-        # ছবি ও প্রকাশের সময়
-        image_url = extract_image(card, TARGET_URL)
-        pub_date = extract_date(card)
-
-        # RSS আইটেম তৈরি
-        entry = fg.add_entry()
-        entry.id(link)
-        entry.title(title)
-        entry.link(href=link)
-        entry.pubDate(pub_date)
-
-        # রিডারে সুন্দরভাবে প্রদর্শনের জন্য HTML ফরম্যাটিং
-        content_parts = []
-        if image_url:
-            content_parts.append(
-                f'<p><img src="{image_url}" alt="{title}" style="max-width:100%; height:auto; border-radius:8px;"/></p>'
-            )
-            entry.enclosure(url=image_url, type="image/jpeg", length="0")
-        
-        content_parts.append(f'<p>{summary}</p>')
-        entry.description("".join(content_parts))
-
-        count += 1
 
     fg.rss_file("feed.xml", pretty=True)
 
+
 if __name__ == "__main__":
-    scrape_and_build_feed()
+    generate_rss()
